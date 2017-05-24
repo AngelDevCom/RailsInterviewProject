@@ -1,0 +1,13 @@
+$icon-font-path: "bootstrap-sass/assets/fonts/bootstrap/";
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import 'materialize';
+@import "materialize/extras/nouislider";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+@import "material-dashboard";
+
+body {
+  font: 13px/1.4 Helvetica, arial, sans-serif;
+  color: #333;
+  background-color: #fff;
+}
